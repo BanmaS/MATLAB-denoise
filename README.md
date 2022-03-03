@@ -1,5 +1,5 @@
 # MATLAB-denoise
-MathWorks-Excellence-in-Innovation project 193
+MathWorks-Excellence-in-Innovation project 193 & SJTU EE397 project
 ## Introduction
 This is the course project of SJTU EE397 course and project 193 of MathWorks Excellence in Innovation Projects. We learn from the idea of RNNoise and implement a speech noise reduction system based on MATLAB deep learning.
 ## Remind
